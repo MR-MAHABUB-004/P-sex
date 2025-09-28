@@ -1,0 +1,26 @@
+{
+  "name": "ph-downloader-api",
+  "version": "1.0.0",
+  "description": "Simple Node.js Express API to download 480p and 720p Pornhub videos and serve direct links",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "express": "^4.19.2",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "keywords": [
+    "express",
+    "video-downloader",
+    "pornhub",
+    "api"
+  ],
+  "author": "IMRAN AHMED",
+  "license": "MIT"
+}
