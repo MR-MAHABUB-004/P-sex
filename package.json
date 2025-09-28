@@ -2,10 +2,10 @@
   "name": "ph-downloader-api",
   "version": "1.0.0",
   "description": "Simple Node.js Express API to download 480p and 720p Pornhub videos and serve direct links",
-  "main": "server.js",
+  "main": "mahabub.js",
   "scripts": {
-    "start": "node server.js",
-    "dev": "nodemon server.js"
+    "start": "node mahabub.js",
+    "dev": "nodemon mahabub.js"
   },
   "dependencies": {
     "axios": "^1.7.7",
